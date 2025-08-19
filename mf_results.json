@@ -1,0 +1,119 @@
+[
+   {
+      "scheme_name": "Kotak-Small Cap Fund - Growth - Direct",
+      "scheme_code": 120164,
+      "current_nav": 305.544,
+      "max_nav_52weeks": 337.727,
+      "min_nav_52weeks": 254.4,
+      "1_month_return_percent": 3.39,
+      "1_week_return_percent": -2.15
+   },
+   {
+      "scheme_name": "Edelweiss Mid Cap Fund - Direct Plan - Growth Option",
+      "scheme_code": 140228,
+      "current_nav": 117.922,
+      "max_nav_52weeks": 121.004,
+      "min_nav_52weeks": 96.293,
+      "1_month_return_percent": 1.2,
+      "1_week_return_percent": -2.05
+   },
+   {
+      "scheme_name": "HDFC Small Cap Fund - Growth Option - Direct Plan",
+      "scheme_code": 130503,
+      "current_nav": 160.08,
+      "max_nav_52weeks": 165.512,
+      "min_nav_52weeks": 128.083,
+      "1_month_return_percent": 1.94,
+      "1_week_return_percent": -1.46
+   },
+   {
+      "scheme_name": "quant Commodities Fund - Growth Option - Direct Plan",
+      "scheme_code": 152255,
+      "current_nav": 13.1323,
+      "max_nav_52weeks": 15.528,
+      "min_nav_52weeks": 11.5023,
+      "1_month_return_percent": 4.34,
+      "1_week_return_percent": -2.32
+   },
+   {
+      "scheme_name": "BANDHAN MIDCAP FUND - GROWTH - DIRECT PLAN",
+      "scheme_code": 150404,
+      "current_nav": 18.28,
+      "max_nav_52weeks": 19.214,
+      "min_nav_52weeks": 14.85,
+      "1_month_return_percent": 0.69,
+      "1_week_return_percent": -1.53
+   },
+   {
+      "scheme_name": "ITI Small Cap Fund - Direct Plan - Growth Option",
+      "scheme_code": 147919,
+      "current_nav": 31.5141,
+      "max_nav_52weeks": 33.4582,
+      "min_nav_52weeks": 25.3708,
+      "1_month_return_percent": 3.19,
+      "1_week_return_percent": -1.48
+   },
+   {
+      "scheme_name": "ICICI Prudential Infrastructure Fund - Direct Plan -  Growth",
+      "scheme_code": 120621,
+      "current_nav": 210.33,
+      "max_nav_52weeks": 218.73,
+      "min_nav_52weeks": 176.94,
+      "1_month_return_percent": 2.78,
+      "1_week_return_percent": -0.93
+   },
+   {
+      "scheme_name": "Edelweiss Small Cap Fund - Direct Plan - Growth",
+      "scheme_code": 146196,
+      "current_nav": 48.395,
+      "max_nav_52weeks": 51.483,
+      "min_nav_52weeks": 39.714,
+      "1_month_return_percent": 3.4,
+      "1_week_return_percent": -2.07
+   },
+   {
+      "scheme_name": "ITI Mid Cap Fund - Direct Plan - Growth Option",
+      "scheme_code": 148733,
+      "current_nav": 22.8114,
+      "max_nav_52weeks": 24.5418,
+      "min_nav_52weeks": 19.0578,
+      "1_month_return_percent": 2.32,
+      "1_week_return_percent": -1.65
+   },
+   {
+      "scheme_name": "quant Aggressive Hybrid Fund-Growth Option-Direct Plan",
+      "scheme_code": 120819,
+      "current_nav": 456.1293,
+      "max_nav_52weeks": 484.2125,
+      "min_nav_52weeks": 394.1956,
+      "1_month_return_percent": 0.86,
+      "1_week_return_percent": -0.6
+   },
+   {
+      "scheme_name": "Unknown",
+      "scheme_code": 135819,
+      "current_nav": null,
+      "max_nav_52weeks": null,
+      "min_nav_52weeks": null,
+      "1_month_return_percent": null,
+      "1_week_return_percent": null
+   },
+   {
+      "scheme_name": "Tata Banking And Financial Services Fund-Direct Plan-Growth",
+      "scheme_code": 135793,
+      "current_nav": 49.7372,
+      "max_nav_52weeks": 51.894,
+      "min_nav_52weeks": 41.972,
+      "1_month_return_percent": 2.94,
+      "1_week_return_percent": -1.35
+   },
+   {
+      "scheme_name": "BANDHAN SMALL CAP FUND - DIRECT PLAN GROWTH",
+      "scheme_code": 147946,
+      "current_nav": 50.169,
+      "max_nav_52weeks": 53.024,
+      "min_nav_52weeks": 40.946,
+      "1_month_return_percent": 4.88,
+      "1_week_return_percent": -0.82
+   }
+]
